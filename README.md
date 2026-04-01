@@ -18,6 +18,7 @@ Enquanto o **GameHub** gerencia os apps e força a parada de processos desnecess
 - **Testado em:** Android 14 (GSI crDroid).
 - **Status ROM Stock:** Funcional, porém experimental (em desenvolvimento para correções de bugs específicos da Motorola).
 - **Trava de Segurança:** O `install.sh` aborta a instalação se o dispositivo não for o `fogorow`.
+- **feedback**: Caso tenha feito o teste na ROM Stock ou um celular diferente/similar (Ex: Moto G24 Power) peço que me informe a compatibilidade do hardware/software.
 
 > [!CAUTION]
 > **AVISO:** Este módulo foca em **PERFORMANCE EXTREMA**. O uso de governors em modo performance e swappiness 100 prioriza a fluidez acima da economia de bateria. Se você modificar o código para forçar a instalação em outro aparelho, o risco é inteiramente seu.
