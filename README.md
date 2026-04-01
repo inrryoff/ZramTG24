@@ -18,12 +18,21 @@ Enquanto o **GameHub** gerencia os apps e força a parada de processos desnecess
 - **Testado em:** Android 14 (GSI crDroid).
 - **Status ROM Stock:** Funcional, porém experimental (em desenvolvimento para correções de bugs específicos da Motorola).
 - **Trava de Segurança:** O `install.sh` aborta a instalação se o dispositivo não for o `fogorow`.
-- **feedback**: Caso tenha feito o teste na ROM Stock ou um celular diferente/similar (Ex: Moto G24 Power) peço que me informe a compatibilidade do hardware/software.
+
+### 🔍 Feedback da Comunidade
+Se você testar este módulo em:
+1. **ROM Stock** (Motorola original).
+2. **Moto G24 Power** (Mesmo chipset, bateria maior).
+3. Outros dispositivos com **Helio G85**.
+
+Por favor, abra uma *Issue* ou mande seu feedback informando se as frequências ficaram travadas corretamente e como está a estabilidade térmica! 
 
 > [!CAUTION]
 > **AVISO:** Este módulo foca em **PERFORMANCE EXTREMA**. O uso de governors em modo performance e swappiness 100 prioriza a fluidez acima da economia de bateria. Se você modificar o código para forçar a instalação em outro aparelho, o risco é inteiramente seu.
 
 ---
-**Desenvolvedor:** [@inrryoff](https://github.com/inrryoff)  
+## 👤 Créditos e Licença
+* **Desenvolvedor:** [@inrryoff](https://github.com/inrryoff)  
+* **Licença:** MIT (Pode usar e modificar, desde que mantenha os créditos ao autor original).
+* **Projeto:** Zram Turbo G24 Gaming
 
-**Projeto:** Zram Turbo G24 Gaming
