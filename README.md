@@ -1,5 +1,9 @@
 # ZramTG24 - Turbo Moto G24 Edition (Performance Mode) 🚀
 
+[![Magisk](https://img.shields.io/badge/Magisk-27.0+-green.svg)](https://github.com/topjohnwu/Magisk)
+[![Android](https://img.shields.io/badge/Android-12+-blue.svg)](https://www.android.com)
+[![Device](https://img.shields.io/badge/Device-Moto_G24-orange.svg)](https://motorola.com)
+
 ---
 
 O **ZramTG24** não é um módulo de zRAM genérico. Ele foi projetado **bit por bit** para o hardware do **Moto G24 (fogorow)** e serve como o complemento essencial para o módulo **GameHub**.
