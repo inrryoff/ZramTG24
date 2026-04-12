@@ -1,4 +1,4 @@
-# ZramTG24 - Turbo Moto G24 Edition (Performance Mode) 🚀
+# 🚀 ZramTG24
 
 [![Magisk](https://img.shields.io/badge/Magisk-27.0+-green.svg)](https://github.com/topjohnwu/Magisk)
 [![Android](https://img.shields.io/badge/Android-12+-blue.svg)](https://www.android.com)
@@ -40,11 +40,6 @@ Se você testar este módulo em:
 3. Outros dispositivos com **Helio G85**.
 
 Por favor, abra uma *Issue* ou mande seu feedback informando se as frequências ficaram travadas corretamente e como está a estabilidade térmica! 
-
----
-
-> [!CAUTION]
-> **AVISO:** Este módulo foca em **PERFORMANCE EXTREMA**. O uso de governors em modo performance e swappiness 100 prioriza a fluidez acima da economia de bateria. Se você modificar o código para forçar a instalação em outro aparelho, o risco é inteiramente seu.
 
 ---
 
